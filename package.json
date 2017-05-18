@@ -1,12 +1,10 @@
 {
-  "name": "gvrh5",
-  "description": "gvrh5 demo",
+  "name": "aframe-demo",
+  "description": "aframe demo",
   "version": "1.0.0",
   "repository": "git@http://gvrcraft.com:8080/git/gvrh5.git",
   "dependencies": {
-    "hls.js": "^0.7.7",
-    "three": "^0.85.2",
-    "videojs-contrib-hls": "^5.5.2"
+
   },
   "devDependencies": {
     "browser-sync": "^2.18.11"
